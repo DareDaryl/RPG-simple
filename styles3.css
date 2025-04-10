@@ -1,6 +1,10 @@
 body {
-    background-color: #0a0a23;
-  }
+  background-color: #0a0a23;
+  background-image: url('./rpgbackground-2.jpg'); /* Add your image path here */
+  background-size: cover; /* Ensure the image covers the entire background */
+  background-position: center; /* Center the background image */
+  background-attachment: fixed; /* Optional: Keeps the background image fixed while scrolling */
+}
   
   #text {
     background-color: #0a0a23;
